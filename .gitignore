@@ -1,3 +1,4 @@
 /env
 misc.ipynb
-Project-3.pdf
+*.pdf
+**/*.pdf
